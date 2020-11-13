@@ -1,0 +1,9 @@
+During this 1:st assignment i mainly learnt about the C++ string class and and how much easier it
+was to work with strings than C. I've had a course in C-programming prior to this, so i was quite familiar
+with the syntax and code structure.
+
+I found task 6 to be the one that a spent most time on, mainly because such a long time since i've worked with prime numbers.
+But a couple of google searches, looking in the C++ reference page and some trail and error i finally got it working.
+
+So as first assignment i found it adequate, providing some challange and head-scratching without being so difficult that
+could't even imagine where to start.
